@@ -9,3 +9,6 @@
 
 ### Answer
 **w1: 3, w2: 5, b: -2.2**
+
+### How many nodes in the output layer would you require if you were trying to classify all the letters in the English alphabet?
+**26**
