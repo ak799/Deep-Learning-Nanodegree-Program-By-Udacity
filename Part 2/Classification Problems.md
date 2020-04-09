@@ -2,6 +2,7 @@
 
 ### Does the student get accepted?
 **Yes**
+
 **No**
 
 ### Answer
