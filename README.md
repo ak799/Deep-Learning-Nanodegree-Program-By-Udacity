@@ -34,3 +34,7 @@
 ### Part 6
 #### Deploying a Model
 ***Project: Deploying a Sentiment Analysis Model***
+
+## ExtraCurricular
+### Deep Reinforcement Learning
+***Project: Teach a Quadcopter How to Fly***
